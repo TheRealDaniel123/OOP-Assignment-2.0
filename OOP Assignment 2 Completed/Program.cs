@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace OOP_Assignment_2_Completed
 {
@@ -10,6 +11,7 @@ namespace OOP_Assignment_2_Completed
     {
         static void Main(string[] args)
         {
+            Diff d = new Diff();
         }
     }
 }
