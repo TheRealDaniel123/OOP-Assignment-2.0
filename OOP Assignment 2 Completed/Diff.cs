@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace OOP_Assignment_2
+namespace OOP_Assignment_2_Completed
 {
     class Diff
     {
